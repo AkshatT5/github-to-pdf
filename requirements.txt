@@ -1,0 +1,3 @@
+gitpython
+reportlab
+tqdm
